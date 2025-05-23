@@ -1,4 +1,4 @@
-# 🎧 Duygu Temelli Müzik Öneri Sistemi
+Duygu Temelli Müzik Öneri Sistemi
 
 Bu derin öğrenme projesi, kullanıcının **anlık ses kaydından** duygu durumunu tahmin ederek, tahmin edilen duyguya uygun bir **müzik listesi** önermektedir. Proje, veri üretimi, model eğitimi ve web arayüzü ile tam entegre bir yapıda geliştirilmiştir.
 
